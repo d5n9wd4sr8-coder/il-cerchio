@@ -7,3 +7,5 @@ La voce è quella di un giornale economico immaginario. I dati e le vicende ripr
 Struttura iniziale: ultime storie, patrimoni, profili, cronologie, dossier, pagina di lettura e nota sul progetto; le sezioni sono navigabili nella home e pronte a diventare pagine autonome.
 
 La testata usa League Spartan, un carattere geometrico scelto per avvicinarsi al riferimento fornito dal proprietario.
+
+La home include i profili narrativi di Pascal De Santis ed Edward Kincaid, il dossier Vandermore–Löwenstein e una mappa di AndLast, Lynx, Kevenpal e Whitfield. I dettagli provengono dal `Contesto.txt` fornito dal proprietario; il racconto usa anche nomi e luoghi reali in un contesto immaginario.
